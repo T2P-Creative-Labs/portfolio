@@ -1,0 +1,121 @@
+{
+"FrontEnd" : [{
+    "id":1,
+    "languageName":"Html",
+    "languageImage":"/html.svg",
+    "languageProgress":100
+},
+{
+    "id":2,
+    "languageName":"Css",
+    "languageImage":"/css.svg",
+    "languageProgress":50
+},{
+    "id":3,
+    "languageName":"Tailwind Css",
+    "languageImage":"/tailwindcss.svg",
+    "languageProgress":90
+},{
+    "id":4,
+    "languageName":"Next.js",
+    "languageImage":"/nextjs.svg",
+    "languageProgress":60
+},{
+    "id":5,
+    "languageName":"Vite",
+    "languageImage":"/vite.svg",
+    "languageProgress":70
+},{
+    "id":6,
+    "languageName":"React",
+    "languageImage":"/react.svg",
+    "languageProgress":70
+},{
+    "id":7,
+    "languageName":"JS",
+    "languageImage":"/javascript.svg",
+    "languageProgress":70
+},{
+    "id":8,
+    "languageName":"Redux",
+    "languageImage":"/redux.svg",
+    "languageProgress":40
+}],
+"BackEnd" :[{
+    "id":1,
+    "languageName":"Ruby",
+    "languageImage":"/ruby.svg",
+    "languageProgress":50
+},
+{
+    "id":2,
+    "languageName":"Ruby On Rails",
+    "languageImage":"/rubyonrails.svg",
+    "languageProgress":50
+},{
+    "id":1,
+    "languageName":"Node.js",
+    "languageImage":"/nodejs.svg",
+    "languageProgress":50
+},
+{
+    "id":2,
+    "languageName":"NestJS",
+    "languageImage":"/nestjs.svg",
+    "languageProgress":50
+},
+{
+    "id":3,
+    "languageName":"sql",
+    "languageImage":"/sql.svg",
+    "languageProgress":50
+},{
+    "id":3,
+    "languageName":"MongoDB",
+    "languageImage":"/mongodb.svg",
+    "languageProgress":30
+},{
+    "id":4,
+    "languageName":"docker",
+    "languageImage":"/docker.svg",
+    "languageProgress":50
+}
+],
+"Designe" : [{
+    "id":1,
+    "languageName":"Figma",
+    "languageImage":"/figma.svg",
+    "languageProgress":50
+},
+{
+    "id":2,
+    "languageName":"Canva",
+    "languageImage":"/canva.svg",
+    "languageProgress":50
+}],
+"Infra": [{
+    "id":1,
+    "languageName":"AWS",
+    "languageImage":"/aws.svg",
+    "languageProgress":50
+},{
+    "id":2,
+    "languageName":"GCP",
+    "languageImage":"/gcp.svg",
+    "languageProgress":50
+},{
+    "id":3,
+    "languageName":"GitLab",
+    "languageImage":"/gitlab.svg",
+    "languageProgress":50
+},{
+    "id":4,
+    "languageName":"GitHub",
+    "languageImage":"/github.svg",
+    "languageProgress":50
+},{
+    "id":5,
+    "languageName":"Terrafom",
+    "languageImage":"/terraform.svg",
+    "languageProgress":50
+}]}

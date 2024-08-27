@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "E-learning Platform",
+    "date": "FEBRUARY 2023",
+    "description": "Our e-learning platform is designed to revolutionize the education experience by providing flexible, accessible, and personalized learning opportunities for students of all ages. It offers a vast library of courses, ranging from academic subjects to professional skills, all taught by expert instructors. The platform integrates interactive tools, multimedia content, and real-time assessments to enhance engagement and ensure mastery of topics. With user-friendly navigation, progress tracking, and community support, our e-learning platform empowers learners to achieve their educational goals at their own pace, anytime and anywhere, making high-quality education accessible to all",
+    "languageBuild": ["Next.js", "Tailwind CSS", "JavaScript"],
+    "github": "https://github.com/silcro-123",
+    "vercal": "https://udemycourse.its-global.vn"
+  },
+  {
+    "id": 2,
+    "title": "Car Booking System",
+    "date": "JUNE 2024",
+    "description": "This project is a microservices-based car booking platform that enables users to auction their trips. Designed for flexibility and scalability, the platform allows users to post their travel requests, specifying details such as destination, date, and time. Car owners or drivers can then bid on these requests, offering competitive pricing and additional services. The microservices architecture ensures seamless integration of various functionalities like user authentication, bidding management, payment processing, and real-time notifications. This approach not only enhances user experience but also facilitates efficient resource management and scalability for future feature expansions",
+    "languageBuild": ["Next.js", "Nest.js", "gRpc", "Tailwind CSS", "PostgreSQL"],
+    "github": "",
+    "vercal": ""
+  }
+]

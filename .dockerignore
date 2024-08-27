@@ -1,0 +1,12 @@
+**/*.md
+**/*.log
+Dockerfile*
+.editorconfig
+.gitignore
+.keep
+coverage
+docker_data
+docs
+logs
+node_modules
+tmp
